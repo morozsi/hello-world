@@ -1,2 +1,3 @@
 # hello-world
-First Repository for tutorial
+
+Hello, humans!
